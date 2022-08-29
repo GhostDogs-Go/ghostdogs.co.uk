@@ -47,4 +47,4 @@ I would recommend checking the [Deployment Methods](https://gohugo.io/hosting-an
 
 ### Documentation
 
-Before using the Clancy theme, please read the attached documentation.
+Before using the Clancy theme, please read the attached documentation.# ghostdogs.co.uk
